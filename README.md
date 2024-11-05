@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Gabriele and I'm from Cascavel - PR, Brazil.</h2>
+<h2 align="center"> ✨ Hi! My name is Gabriele and I'm from Cascavel - PR, Brazil. ✨</h2>
 
 ###
 
